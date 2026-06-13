@@ -9,17 +9,17 @@ El sitio está compuesto por varias páginas que muestran mi perfil, mi portafol
 ## Tecnologías Utilizadas
 
 - **HTML5** – estructura semántica del contenido (header, nav, main, section, article, aside, footer, figure).
-- **CSS3** – estilos generales y específicos por página, animaciones, diseño responsivo (Mobile First).
+- **CSS** – estilos generales y específicos por página, animaciones, diseño responsivo (Mobile First).
 - **Bootstrap 5** – sistema de grid, componentes (navbar, cards, accordion, carousel, modal, badges, progress bars, list groups, tablas, formularios).
 - **Font Awesome 6** – iconografía.
-- **JavaScript (Bootstrap bundle)** – funcionalidad de componentes interactivos (navbar colapsable, acordeón, carrusel, modal).
+
 
 ## Estructura de Carpetas
 
 <img width="377" height="542" alt="image" src="https://github.com/user-attachments/assets/7a58f21f-eb81-4f88-81a1-b663b22707c7" />
 
 
-## Capturas de Pantalla
+## Capturas de Pantalla de las ultimas paginas agregadas de la tarea
 
 A continuación se muestran algunas vistas del sitio:
 
